@@ -1,2 +1,2 @@
 # practice123
-Practicing git commands
+Practicing git command

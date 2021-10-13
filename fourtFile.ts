@@ -1,1 +1,2 @@
-This is the typescript file
+//This is the typescript file
+console.log('Hello world!!');
